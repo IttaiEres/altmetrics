@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"SC 2016\"\nauthor: \"Ittai Eres\"\ndate: \"September 14, 2015\"\noutput: html_document\n---\n\nDon't be an **asshole**!\n```{r}\n#Installing some necessary packages.\n#install.packages(c(\"dplyr\", \"ggplot2\", \"testit\", \"rmarkdown\"))\n```\n\n```{r, results=\"hide\"}\nsummary(cars)\n```\nIf you wanna embed _plots_ you can:\n\n* Not suck\n* Look it up online\n* Just figure it out because it's simple\n\n```{r, echo=FALSE, include=FALSE}\nplot(cars)\n```\n\nWhat are the dimensions of **cars**?\nThe number of cars is `r dim(cars)[1]`.\n```{r}\ndim(cars)\n```\n\n",
+    "created" : 1442334538379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "278643799",
+    "id" : "8EF230E5",
+    "lastKnownWriteTime" : 1442332817,
+    "path" : "~/Desktop/UChicago/SC2016.Rmd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
