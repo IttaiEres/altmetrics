@@ -1,0 +1,9 @@
+{
+    "path" : "~/Learning_Things/altmetrics/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
